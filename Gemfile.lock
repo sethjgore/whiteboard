@@ -70,6 +70,8 @@ GEM
       middleman-core (>= 3.0.0)
       net-sftp
       ptools
+    middleman-gh-pages (0.0.2)
+      rake (> 0.9.3)
     middleman-livereload (3.1.0)
       em-websocket (>= 0.2.0)
       middleman-core (>= 3.0.2)
@@ -136,6 +138,7 @@ DEPENDENCIES
   middleman-autoprefixer
   middleman-blog!
   middleman-deploy
+  middleman-gh-pages
   middleman-livereload
   middleman-minify-html
   middleman-smusher

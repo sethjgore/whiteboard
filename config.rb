@@ -1,5 +1,10 @@
 require 'middleman-autoprefixer'
 
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.build_before = true # default: false
+end
+
 # ROUTER IMPLEMENTATION VIA MIDDLEMAN RACKWARE
 page "/handy.html",  :layout => :handy
 page '/lab.html', :layout => :lab
