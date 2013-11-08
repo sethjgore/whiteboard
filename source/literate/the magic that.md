@@ -1,0 +1,62 @@
+the magic that people alive thousands of years ago have inflicted on us. if human souls are shallow, immpermanent rivers, then our lives are deserts with thousand creeks empty. large portions of pour lives are surrounded by seasalt, which we cannot infilrate, except by one way, death. the moment we enter the salt water, we will not taste. we will not remember. fuck this booty fuck this booty i am forgetting how to write again, baby sweet bay girl foorget how to write agaon so i have to learn how all over again to just write daily to write daily to make a habit out of it, to meditatie daily to meditate daily to meditate daily, just to make an habit out of it beexauz all this is the only way to be going around making habits i mean baby if the baby doesnt learn how to breathe for a day by itself, or even by the first minute, then its all good for naught beexauz thats the only way habits, ahabits so inherent that we forget we cannot do much in life when we are without these habits, the handling of flatware, the breathing, the opening of mouth. i just be walking around i just be doing them daily be meditating be writing be reading and be back workin all ready all over again just look this way like you are just opening your mouth and take that a little sip of pure energy and that smeditation, and you're eating it, that's writing, and you're swallowing, ingesting, thats reading and you're going back to cut some more o fyour good chicken. that's work. it's all a habitflow and without habits theres no ability to win the game. yesterday was a betterday because i began the day without alcohol. i began the day without the fuss. 
+
+cmon just a sip be straightening out the day you're going to be walkin 
+
+You don’t get to decide your purpose.You become your purpose through imagination. When you seek for something hard enough, when you imagine it often enough, it’ll happen. Of course, 99% of the time it won’t be exactly what you had imagined. Of course the material appearance isn’t what you had imagined it to be. However, the intention, the essence is.
+
+Even I am guilty of the same. Some days when I am in a bad mood, I let my shower run longer than it should. Other days, I give up and throw plastic in the garbage when the plastic has too much gunk on it.
+
+Yet I know that I do have second thoughts when I click on a button calling for some justice. Yet I know when I see a really good tweet I hesitate to reply or retweet. Why? We face guilt. The guilt of enabling our greatest addiction: consuming. We are afraid to lose ourselves, our “selfness”. Or just that I'm too fucking hatin' of all idea of opinion and so by not clicking i'm sayin i'm not listening to opinion but by not clicking i'm having an opinion. i'm just a bubble of water in a sea of water. i'm just an atom. but dont forget that a displaced atom can change the world as it did Hiroshima. 
+
+Skills. Reputation. Knowledge. Degrees. Liked. Retweeted. Photos. Words said and written. Handshakes. Fake laughs. Isms. Which of them do you believe in? Frequency you update your status. Your diet. Your choices. How old is your phone? MPG.
+
+Shame is a word that is used to bring out of me memories and thoughts of Asian culture, a solider who cannot mention his love for other men, a woman who thinks the bruises on her face is because she cannot behave, and a child who refrains from hugging because he has learned that he is a ‘man’. 
+
+Consumerism works so well because it puts the exploited in a bubble that creates a very artificial reality. This reality is extremely sedating, numbing. We become asleep and our dreams are manipulated and exploited. The women are taught to 'let it go'; soliders angry and stern instead of bubbly laughter; hugs are met with stiffness, absent the cherished melting and gripping of flesh on other. 
+
+And once you are within that carefully designed, ergonomic reality of a cardboard box,  truths become very difficult to see. Often the only way to rip your box out isn’t me ripping it out. It’s not even me showing you movies of young Asian adults doing mindless manufacturing & packaging tasks. All of that is still consumerist. The voyeuristic action that you must partake as you watch these horrific films is a learned habit. No magical movie can awaken you because all that I show you is still within your world of comatose coma. No truths can pentrate into the world of a man's mind while he is under a coma. 
+
+The most effective way is to make you realize that you are crouching and suffering. That once you let go that box, the intense pressure of societal shame and anxiety will woosh away. They will evaporate. Shame and anxeity both are all in your mind. Everything is in your mind.
+
+We are all crouching in little wet cardboard boxes that we’re holding onto with our nails.
+
+Consumerism also is marketed as something that makes your life better. The exploited are deeply engineered and molded to believe that. It makes them numb to so many things. How many times have you found yourself looming in Target, Walmart, Publix, Costco, Sam's Club, Kohl's, Macy's, JcPenney, Premium Outlets, Rugged Outlets... How many times have you lost yourself in this lost seeking, the seeking for what reason you have forgotten, as if you will find the answer to the suffering of all lives and bullshit underneath the sole of a Nike shox. 20% off, exp. 5 Aug 2013. Printed with cheap ink so it's smeared when you touch the plastic enclosure that holds the price tag. 
+
+Every piece of plastic makes it harder to feel, and there’s an endless stream of plastic coming into this country. The Plastic Nation. We, the people of plastic, believe...
+
+We are continually sensually raped and rendered numb by being continually touched by everything, by plastic, by pixels, by shiny designer luxury imaginative drool that comes out of our hearts. By that tired seeking within us, the temporary happiness founation that is taught to be dormant when there is no new thing being bought, being brought into home like a newborn pure and pink (or whatever color because I'm white I say pink) and then more quicker than you'd think, the child is discarded, left in a corner to collect dust and rot. We learn to be unhappy because that is how the economy works. The economy works because it is fueled by the sadness of people seeking for atonement. Yet we don't realize we can be hills and mounds and volcanoes all at the same time, that we can be happy in a thousand ways, that we will feel fuilfiled when we are careful with our purchases, when we don't let the TV take us over. 
+
+You can’t really become involved in the battle of feeling and being human if you’re consuming so much. And that’s what mainstream, ad-plastered, socially-recommended America does (and more countries are following suit).
+
+And the fact that typical American consumer consumes so much — either or both electronically and physically — this leaves very little space for what is a very big concept. This is the problem. Right there.
+
+We are beakers. We are open cups glass. You can measure and appreciate things when the water's not overflowing. Yet that's what's happening. There is no silence. The water is continually frothing white and coming out of the beaker at crazy speed. You know when you stop the soda pouring and after the fizz has left, there's very little soda left, right? That's how shallow we are, even though we feel full and overwhelmed, the moment when all the fizz is gone, we're just there almost empty. Thats what consumerism does. That's the structure that a 'successful economy' requires. It requires us all to be empty. We cannot be content.
+
+I think, the only way to truly make changes is to consume less. Everybody says they can’t believe how much time they have when their phones die and they can’t connect to Facebook. That's the fizz coming out. 
+
+The only true way to wake others is to make others who consume recognize this deep suffering that is so prevalent in this world is also theirs. 
+
+Believing in material things and money as marks of success is a terrible scar to have on the soul. When we believe in material things, in profit, in mass production, parts of our humanness die. 
+
+So many of us draw back to our older habits because we are taught to ignore the pain, and we have learned that even if we feel dead, we are okay when we have things. We have put human elation and geniuity of human onto things. We are divided between the human within us and the consumer that has been engineered onto us. We have been manipulated to the point where we are numb and dead.
+
+Let that suffering rise. Let that suffering wake others up, let that suffering finally allow you to feel something, to finally not feel something that is so numb and prescribed. Yell. Say something here. Be bold. 
+
+That their anxiety of not having the newest new thing is a scar, a gasping open wound that is self-salted every time, every single time they see impeccable (probably causcian) hands swipe that impeccably white iPhone on that impeccably clean background, that the emptiness (probably anxiety) that they experience as they sit sifting through their Netflix apps looking for the right movie is real and is not happenstance that the eternal wanting and desiring they have is learned and heavily exploited. That what they are feeling and suffering is not true nature of our people. That what they are feeling is exploitation, in other words, oppression.
+
+The only way to live is to live uncomfortably, to stay hungry and focused. To clench teeth trying to stay awake, to feel the immense weight of every single moment passing through you, passing through you like thousand balls of lead. All of these things do not move through you like lighting, like fast-forward, like all things electronic and beeping.
+
+I cried and sobbed with the little computer montior in the front of me. I bawled as I typed messages to whoever I saw was available, and green in icon. 
+
+Imagine a torrent of river gushing past you and you attempt to stop the river with your mere palms. You will fail. Unless you accept that the only change that will occur is whatever that is within the little space that you fill, whatever water that streams past your fingers. That is the extent of things being altered by you. 
+
+Internet is a permanent dream. I swim in the flooding water, littered with thousands of things that I once thought I needed. Corporate floats among me, names appearing and disappearing as their electronic cordtails propel them through water. I wake up everyday seeking in the pile of reality for the purpose that I think I had lost somewhere but I when i swim in that pool of dirty water, electric blazing miles beneath me, in the complete purple darkness, I know that it is only a blend of imagination and desire. The shock, the sodden feeling as you look at the soda can and you cannot remember why it is empty, you cannot remember that emptying sip, the last sip you had made out of that can. It is with the same perplexence that I swim in the water, seeking for a purpose that I already have within me just that I do not remember. 
+
+Then I wake up. I have been in a coma. Not all comas are terrible, because of the worlds within them are sometimes extraordinary. My one pressing concern that my body shivers as if this concern was an arrow leaving a gaping wound is the fact I have inflicted suffering on others. I have made others worry and cry as they see me laying there like the dead. All of that pain, suffering, unhappiness and unquestioned perservance of hope and belief that I will someday wake up all has occured without reason. Perhaps there might be that moment of overwhelming happiness when I wake up, that moment of celebration and disbelief. Yet there is always the wearing out of that effect — there is always a point where coma victims pick their first arguments, the first spill of coffee, the word said in the wrong way. 
+
+I was never awake before yet now because I am I shall remain conscious and overtly angry at the fact that my coma was not natural, that my coma was inducted. Now I shall sit by others' coma and stroke them until I awaken them. Some of them will come out and some of them will go under again, unable to handle the reality that they have missed so much of their lives in a perpetually materialistic suffering. Many will never wake up. 
+
+I still will walk between these halls as we all trample on tiles we all thought we had walked on before. We will inch forward and we will awaken.
+
+
+

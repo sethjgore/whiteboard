@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="375px" height="300px" viewBox="0 0 375 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>verb-past</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Verbs-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="verb-past" sketch:type="MSArtboardGroup" fill="#E03232">
+            <path d="M286.903573,200.467228 C286.903573,145.959853 242.641663,101.77276 188.041553,101.77276 C133.441642,101.77276 89.1795334,145.959853 89.1795334,200.467228 C89.1795334,254.974802 133.441642,299.161697 188.041553,299.161697 C242.641663,299.161697 286.903573,254.974802 286.903573,200.467228 C286.903573,200.467228 286.903573,254.974802 286.903573,200.467228 Z M155.529987,215.852314 L128.836846,200.467228 L182.222733,169.697254 L182.222733,187.397515 L247.246458,187.397515 L247.246458,213.536942 L182.222733,213.536942 L182.222733,231.237203 L155.529987,215.852314 Z M155.529987,215.852314" id="Fill-2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

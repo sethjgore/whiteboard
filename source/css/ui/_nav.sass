@@ -1,0 +1,63 @@
+// .NAV-SHADOW
+// .nav module is absolutely positioned.
+// this causes the body to move up because
+// absolutely positioned height el are not accounted for
+// .nav-shadow is here to compensate.
+.nav--shadow
+  height: 4.5rem
+
+.nav--positioning
+  @extend .g
+  @extend .g-full
+  position: absolute
+  z-index: 13
+  width: 100vw
+  @extend .nav-transition-enabled
+
+  a
+    border: none
+    text-decoration: none
+
+.nav--gc
+  @extend .gc
+  flex: 1 1 100vw
+  position: absolute
+  width: 100vw
+  z-index: 12
+
+.nav--g
+  @extend .g
+  @extend .g__full
+  padding-top: 1rem
+  flex-direction: row
+  padding: .5rem 0 1rem 0
+  background: rgb(44, 44, 44)
+
+  @media #{$phabletish}
+    padding-top: 1rem
+
+.nav--list
+  @extend .gc
+  @extend .nav-transition-enabled
+
+  &:hover
+    @extend .nav-animate-hover
+
+.nav--list--sub
+  flex: 1 1 100vw
+  background: red
+  
+$transition-length-standard : .2s
+
+.nav-transition-enabled
+  @include vendor(transition, $transition-length-standard all ease-in-out 0s)
+
+  & > * 
+    @include vendor(transition, $transition-length-standard all ease-in-out 0s)
+
+  &:hover
+    @include vendor(transition, $transition-length-standard all ease-in-out 0s)
+
+.nav-animate-hover
+  @include vendor(transform, translateY(.5rem))
+  

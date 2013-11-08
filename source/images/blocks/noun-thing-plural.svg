@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="375px" height="300px" viewBox="0 0 375 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>noun-thing-plural</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Nouns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="noun-thing-plural" sketch:type="MSArtboardGroup" fill="#393939">
+            <path d="M176,-5 L352,291 L0,291 L176,-5 Z M152.5,263 C158.851275,263 164,257.851275 164,251.5 C164,245.148725 158.851275,240 152.5,240 C146.148725,240 141,245.148725 141,251.5 C141,257.851275 146.148725,263 152.5,263 Z M199.5,263 C205.851275,263 211,257.851275 211,251.5 C211,245.148725 205.851275,240 199.5,240 C193.148725,240 188,245.148725 188,251.5 C188,257.851275 193.148725,263 199.5,263 Z M166.324,125.888 L135.076,125.888 L135.076,110.048 L215.716,110.048 L215.716,125.888 L184.468,125.888 L184.468,212 L166.324,212 L166.324,125.888 Z M166.324,125.888" id="Triangle-1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

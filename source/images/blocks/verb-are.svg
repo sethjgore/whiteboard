@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="375px" height="300px" viewBox="0 0 375 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>verb-are</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Verbs-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="verb-are" sketch:type="MSArtboardGroup" fill="#E03232">
+            <path d="M187.382356,101.066726 C132.506489,101.066726 88.0210331,145.55238 88.0210331,200.428049 C88.0210331,255.303916 132.506489,299.789372 187.382356,299.789372 C242.258224,299.789372 286.743679,255.303916 286.743679,200.428049 C286.743679,145.55238 242.258224,101.066726 187.382356,101.066726 Z M182.960976,255.095059 L146.605065,164.838015 L182.960976,164.838015 L182.960976,255.095059 Z M209.98189,209.966338 L191.803736,255.095059 L191.803736,164.838015 L228.159846,164.838015 L209.98189,209.966338 Z M209.98189,209.966338" id="Fill-7" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

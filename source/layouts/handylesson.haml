@@ -1,0 +1,15 @@
+- wrap_layout :layout do
+  %section.section__lesson.section__lesson--dark
+    .g.g--center.g--1of1
+      .gc.1of1
+        %figure.lesson__symbol--main{:class => "block--"+current_page.data.block}
+      .gc.1of1
+        %h1.giga.is__text--centered
+          = current_page.data.title
+        %h1.meta.is__text--centered
+          = current_page.data.summary  
+    -#
+      .g.Aligner
+        .gc
+          %img{:src => current_page.data.video, :alt => "test"} 
+    = yield

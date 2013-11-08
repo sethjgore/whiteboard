@@ -1,0 +1,11 @@
+//TODO add automatic LIGHTEN function @each color in $colors
+//TODO allow sassscript lighten() to work within lists
+
+$colors: (
+    "yellow" "rgb(254, 173, 9)",
+    "green" "rgb(26, 198, 99)",
+    "green-light"  "rgb(6, 255, 106)",
+    "dark" "rgba(0,0,0,.50)",
+    "darker" "rgb(44, 44, 44)",
+    "red" "rgb(223,51,50)"
+)

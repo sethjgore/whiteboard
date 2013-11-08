@@ -1,0 +1,47 @@
+.whiteboard--storage
+  width: 100vw
+  height: 10rem
+
+.block--generic
+  height: 3rem
+  width: 3rem
+  background-size: contain
+  background-position: center center
+  background-repeat: no-repeat
+
+ 
+.block--article
+  background-image: image-url('blocks/article.svg')
+  background-size: contain
+  @extend .block--generic 
+
+.block--adjective
+  background-image: image-url('blocks/adjective.svg')
+  background-size: contain
+  @extend .block--generic
+
+.block--noun
+  background-image: image-url('blocks/noun.svg')
+  background-size: contain
+  @extend .block--generic
+
+.block--pronoun
+  @extend .block--generic
+  background-image: image-url('blocks/pronoun.svg')
+  background-size: contain
+
+.block--preposition
+  @extend .block--generic
+  background-image: image-url('blocks/preposition.svg')
+  background-size: contain
+
+.block--verb
+  @extend .block--generic
+  background-image: image-url('blocks/verb.svg')
+  background-size: contain
+
+.block--adverb
+  @extend .block--generic
+  background-image: image-url('blocks/adverb.svg')
+  background-size: contain
+

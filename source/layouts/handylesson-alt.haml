@@ -1,0 +1,13 @@
+- wrap_layout :layout do
+  %section.section__lesson.section__lesson--dark
+    .g.g--center
+      .gc.1of3
+        %figure.lesson__symbol--main{:class => "block--"+current_page.data.block}
+      .gc.2of3
+        %h1.is__text--centered
+          = current_page.data.title 
+    = yield
+
+    .g.Aligner
+      .gc
+        = current_page.data.video

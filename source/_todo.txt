@@ -1,0 +1,8 @@
+add responsive
+  grid
+    add gutter responsive
+      100vw default
+      80/etc as grows
+  typography
+    default smaller size
+    retain current sizing as grows

@@ -1,0 +1,14 @@
+%section
+
+  .sentence__whiteboard
+
+    .whiteboard__storage
+      %figure.block--verb
+      %figure.block--noun
+      %figure.block--adj
+      %figure.block--prep
+      %figure.block--article
+
+    %form.sentence__editing.hidden{:action => "#"}
+    %input.sentence__container{:type => "text", :value => "Type Your Sentence", "onblur" => "$.fn.swapSentenceConsole('sentence__editing')"}
+

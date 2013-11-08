@@ -1,0 +1,10 @@
+.site-logo{
+  background: url("../images/diamond2.svg") no-repeat center center;
+  background-size: contain;
+
+  // Decoupled --> specify height when used.
+}
+
+body.pause{
+  overflow: hidden;
+}

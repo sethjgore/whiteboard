@@ -1,0 +1,11 @@
+@mixin animate--this($name, $duration: 2s, $delay: 0s, $animation-type: ease-in-out, $repeathowmany: 1, $differentname: null){
+  .animated__#{$name}{
+    @if $differentname == null{
+      $differentname: $name;
+      @include vendor(animation, $name $duration $delay $animation-type $repeathowmany);
+    } @else{
+      @include vendor(animation, $name $duration $delay $animation-type $repeathowmany);      
+    }
+
+  }
+}

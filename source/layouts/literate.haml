@@ -1,0 +1,9 @@
+= wrap_layout :layout do
+  .literate.row
+    %article.columns.small-10.small-centered.large-12.large-centered
+      %h1.title.is.centered
+        = current_page.data.title
+      %blockquote.quote.is.centered
+        = current_page.data.quote
+    %article.columns.small-10.small-centered.large-8.large-centered
+      = yield

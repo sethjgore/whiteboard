@@ -1,0 +1,100 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  color: hsl(0,0%,25%);
+  font: 300 .8rem Avenir, sans-serif;
+  line-height: 1.61rem;
+
+  /// RESPONSIVE TYPE
+
+  @media #{$phabletish}{
+    font-size: 1rem;
+  }
+  @media #{$tabletish}{
+    font-size: 1.1rem;
+  }
+  @media #{$tabletopish}{
+    font-size: 1.3rem;
+  }
+  /*
+    
+  */
+}
+
+
+@include headings(1,6){
+  color: #fff;
+  line-height: 1.3em;
+  font-weight: normal;
+}
+
+h1 {
+  margin: 0 0 0.5em;
+  font-size: 2.45em;
+  -webkit-font-kerning: normal;
+}
+
+h2 {
+  margin: 0 0 1em;
+  font: 100 1.5em;
+  -webkit-font-kerning: normal;
+}
+
+h3 {
+  margin: 0 0 1em;
+  font-size: 1.2em;
+}
+
+pre, p {
+  margin: 0 0 1em;
+}
+
+pre, code {
+  font-family: "source-code-pro", monospace;
+}
+
+code {
+  font-size: .9em;
+  font-weight: normal;
+  color: #000;
+}
+
+pre > code {
+  font: inherit;
+  color: inherit;
+}
+
+a {
+  border-bottom: 1px dashed hsla(150, 45%, 50%, 0.5);
+  color: hsl(150, 45%, 50%);
+  text-decoration: none;
+  &:hover, &:focus {
+    border-bottom: 1px solid hsl(150, 45%, 50%);
+  }
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.giga{
+  font-size: 4.5rem;
+}
+.mega{
+  font-size: 4.0rem;
+}
+.kilo{
+  font-size: 3.2rem;
+}
+
+.giga, .mega, .kilo{
+
+  &.bold{
+    font-family: $typeface-heading-bold;
+  }
+}
