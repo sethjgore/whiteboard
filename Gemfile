@@ -13,4 +13,5 @@ gem "middleman-minify-html"
 gem "middleman-smusher"
 gem "sass-css-importer"
 gem 'middleman-autoprefixer'
-gem "middleman-gh-pages"
+#gem "middleman-gh-pages"
+gem 'middleman-deploy'
