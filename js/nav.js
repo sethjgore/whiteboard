@@ -1,0 +1,1 @@
+$(".nav--list").hover(function(a){a.preventDefault(),$this=$(this),$value=$this.attr("data-subcategory-name"),$(".nav__secondary--"+$value).toggleClass("hidden")});

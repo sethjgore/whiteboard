@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="375px" height="300px" viewBox="0 0 375 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>noun-dummy</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Nouns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="noun-dummy" sketch:type="MSArtboardGroup" fill="#393939">
+            <path d="M188,0 L364,296 L12,296 L188,0 Z M188,240.6 L116,240.6 L116,229.8 L188,229.8 L188,240.6 Z M260,240.6 L188,240.6 L188,229.8 L260,229.8 L260,240.6 Z M260,240.6" id="Triangle-1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
