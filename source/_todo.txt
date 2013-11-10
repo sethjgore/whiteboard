@@ -1,8 +1,24 @@
-add responsive
-  grid
-    add gutter responsive
-      100vw default
-      80/etc as grows
-  typography
-    default smaller size
-    retain current sizing as grows
+todo
+  add video
+  add sample page (noun)
+
+todo-nav
+  add second/third level
+
+    1)  example:  noun    | TYPES
+                          ||  Names
+                          ||  Things
+                          ||  Places
+
+
+    2)  example:  noun    | LESSON
+                          | TYPES
+                          ||  Names
+                          ||  Things
+                          ||  Places
+
+
+    3)  example:  LESSONS | NOUN TYPES
+                          || Names
+                          || Things
+                          || Places

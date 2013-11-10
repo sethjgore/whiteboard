@@ -2,7 +2,7 @@ require 'middleman-autoprefixer'
 
 activate :deploy do |deploy|
   deploy.method = :git
-  deploy.build_before = true # default: false
+  deploy.build_before = false # default: false
 end
 
 # ROUTER IMPLEMENTATION VIA MIDDLEMAN RACKWARE
@@ -57,7 +57,7 @@ configure :build do
   # Minify Javascript on build
   activate :minify_javascript
   activate :autoprefixer
-  
+
   # Enable cache buster
   #activate :cache_buster
 

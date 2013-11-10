@@ -87,9 +87,25 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 107.0,
+		"height": 87.0,
 		"selected_items":
 		[
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
 			[
 				"user",
 				"Preferences: Settings - User"
@@ -151,10 +167,6 @@
 				"Set Syntax: Sass"
 			],
 			[
-				"rename",
-				"File: Rename"
-			],
-			[
 				"DUP",
 				"File: Duplicate"
 			],
@@ -173,14 +185,6 @@
 			[
 				"convert",
 				"HTML2Haml: Convert selection"
-			],
-			[
-				"delte",
-				"File: Delete"
-			],
-			[
-				"dele",
-				"File: Delete"
 			],
 			[
 				"delete",
@@ -279,7 +283,7 @@
 				"Set Syntax: Sass"
 			]
 		],
-		"width": 392.0
+		"width": 354.0
 	},
 	"console":
 	{
@@ -299,6 +303,23 @@
 	},
 	"file_history":
 	[
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/lab.html.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/layout.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/_lab.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/index.html.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/lab.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/node_modules/bower/lib/commands/list.js",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/nav.js",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/whiteboard.sublime-project",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/config.rb",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/Rakefile",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/Gemfile",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/handy/2013-08-08-noun.html.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/handy/2013-08-08-preposition.md",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/watch",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/handy/untitled",
 		"/Users/user/Dropbox/Web/Clients/learnnow/vendor/bundle/ruby/2.0.0/bundler/gems/middleman-blog-322f3e303c76/lib/middleman-blog/template/source/layout.erb",
 		"/Users/user/Dropbox/Web/Clients/learnnow/vendor/bundle/ruby/2.0.0/bundler/gems/middleman-blog-322f3e303c76/middleman-blog.gemspec",
 		"/Users/user/Dropbox/Web/Clients/learnnow/Gemfile",
@@ -409,24 +430,7 @@
 		"/Users/user/Dropbox/Web/learnnow/source/css/components/_section.scss",
 		"/Users/user/Dropbox/Web/learnnow/source/css/ui/_animate.scss",
 		"/Users/user/Dropbox/Web/learnnow/source/css/ui/_work.sass",
-		"/Users/user/Dropbox/Web/sethjgre/source/layouts/_nav.haml",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/ui/_nav.sass",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/ui/_work.sass",
-		"/Users/user/Dropbox/Web/sethjgre/source/js/app.js",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/ui/_responsive-type.scss",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/ui/_type.scss",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/base/_3d.sass",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/base/_gore-grid.sass",
-		"/Users/user/Dropbox/Web/sethjgre/source/index.html.haml",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/ui/_formatting.sass",
-		"/Users/user/Dropbox/Web/sethjgre/node_modules/bower/node_modules/request/tests/test-redirect.js",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/ui/_section-read.sass",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/style.scss",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/components/_grid.scss",
-		"/Users/user/Dropbox/Web/sethjgre/source/css/base/_utils-media.scss",
-		"/Users/user/Dropbox/Web/sethjgre/source/work.html.haml",
-		"/Users/user/Desktop/todo",
-		"/Users/user/Dropbox/Web/sethjgre/source/kitchen.html.haml"
+		"/Users/user/Dropbox/Web/sethjgre/source/layouts/_nav.haml"
 	],
 	"find":
 	{
@@ -628,7 +632,7 @@
 		"cols":
 		[
 			0.0,
-			0.485124222181,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -658,6 +662,54 @@
 		"selected_items":
 		[
 			[
+				"layout",
+				"source/layouts/layout.haml"
+			],
+			[
+				"inde",
+				"source/index.html.haml"
+			],
+			[
+				"lab",
+				"source/css/_lab.sass"
+			],
+			[
+				"nav",
+				"source/layouts/_nav.haml"
+			],
+			[
+				"",
+				"Gemfile"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"handy/preposition",
+				"source/handy/2013-08-08-preposition.md"
+			],
+			[
+				"css/watch",
+				"source/css/watch"
+			],
+			[
+				"untitle",
+				"source/js/handy/untitled"
+			],
+			[
+				"untitled",
+				"source/js/handy/untitled"
+			],
+			[
+				"con",
+				"config.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
 				"vendor/bundle/middleman-blog",
 				"vendor/bundle/ruby/2.0.0/bundler/gems/middleman-blog-322f3e303c76/middleman-blog.gemspec"
 			],
@@ -678,20 +730,12 @@
 				"vendor/bundle/ruby/2.0.0/gems/autoprefixer-rails-0.8.20131009/autoprefixer-rails.gemspec"
 			],
 			[
-				"gem",
-				"Gemfile"
-			],
-			[
 				"config",
 				"config.rb"
 			],
 			[
 				"colors",
 				"source/css/ui/_colors.scss"
-			],
-			[
-				"nav",
-				"source/css/ui/_nav.sass"
 			],
 			[
 				"sentence",
@@ -724,10 +768,6 @@
 			[
 				"conf",
 				"config.rb"
-			],
-			[
-				"",
-				"Gemfile"
 			],
 			[
 				"preious",
@@ -846,10 +886,6 @@
 				"source/css/ui/_blocks.sass"
 			],
 			[
-				"layout",
-				"source/layouts/layout.haml"
-			],
-			[
 				"sass",
 				"vendor/bundle/ruby/2.0.0/bin/sass"
 			],
@@ -962,16 +998,8 @@
 				"source/layouts/layout.haml"
 			],
 			[
-				"rake",
-				"Rakefile"
-			],
-			[
 				"sect",
 				"source/css/components/_section.scss"
-			],
-			[
-				"inde",
-				"source/index.html.haml"
 			],
 			[
 				"learnnow",
@@ -1144,30 +1172,6 @@
 			[
 				"index.ha",
 				"sethjgre/source/index.html.haml"
-			],
-			[
-				"liter",
-				"sethjgre/source/stylesheets/modules/_literate.scss"
-			],
-			[
-				"vari",
-				"sethjgre/source/stylesheets/master/_variables.scss"
-			],
-			[
-				"deli",
-				"sethjgre/source/literate/deliberatelyhonest.md"
-			],
-			[
-				"set",
-				"sethjgre/source/stylesheets/_settings.scss"
-			],
-			[
-				"inuit/grid",
-				"sethjgre/source/stylesheets/vendor/inuit.css/objects/_grids.scss"
-			],
-			[
-				"defa",
-				"sethjgre/source/stylesheets/vendor/inuit.css/_defaults.scss"
 			]
 		],
 		"width": 0.0
@@ -1178,16 +1182,16 @@
 		"selected_items":
 		[
 			[
+				"",
+				"~/Dropbox/Web/clients/whiteboard/learnnow.sublime-workspace"
+			],
+			[
 				"dot",
 				"~/dotfiles.sublime-project"
 			],
 			[
 				"dotfi",
 				"~/dotfiles.sublime-project"
-			],
-			[
-				"",
-				"~/Dropbox/Web/personal/sethjgre/sethjgre.sublime-project"
 			],
 			[
 				"seth",
@@ -1226,7 +1230,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 425.0,
 	"status_bar_visible": true,
 	"template_settings":
