@@ -10,10 +10,9 @@
     %title= data.page.title || "sethjgore"
     = stylesheet_link_tag "style"
   // %link{href: "http://i.icomoon.io/public/temp/ae69d15774/MVL/style.css", rel: "stylesheet"}
-  %body{:class => page_classes, "ng-app" => ""}
+  %body{:class => page_classes}
     .traffic-light.j-nav-trigger
-    .lab__space{:class => data.page.navlayout}
-      = partial "layouts/nav"
+    .lab__space{:class => data.page.nav}
+      = partial "layouts"
       = yield
   = javascript_include_tag "app"
-
