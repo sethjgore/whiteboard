@@ -1,0 +1,1 @@
+$('.thing-with-videos').fitVids();

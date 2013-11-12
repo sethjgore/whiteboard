@@ -8,18 +8,28 @@
 
     .lab__nav
       flex-direction: column
+      height: 100vh
+      position: fixed
+      z-index: 2
+
+  &.none
+    .lab__nav
+      display: none !important
 
 .lab__nav
   @extend .is__background--darker
-  flex: 0 1 20vh
+  flex: 1
   display: flex
   align-items: center
   justify-content: center
   padding: 0 3rem
+  min-width: 0rem
+
 
 .lab__whiteboard
   @extend .gc
   @extend .is__background--dark
+  flex-direction: column
   display: flex
-  align-items: center
-  justify-content: center
+  //align-items: center
+  //justify-content: center

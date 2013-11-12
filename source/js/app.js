@@ -7,5 +7,5 @@
 //= require vendor/draggabilly
 //= require draggable
 //= require nav
-//= require handy/noun
-//= require whiteboard-enter
+
+$(".lab__whiteboard").fitVids();
