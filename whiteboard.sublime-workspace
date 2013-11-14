@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"is",
+				"is__background--darker"
+			],
+			[
 				"mouse",
 				"mouseover"
 			],
@@ -83,32 +87,36 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav.sass",
-			"settings":
-			{
-				"buffer_size": 1225,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/user/Dropbox/Web/Clients/whiteboard/source/js/app.js",
-			"settings":
-			{
-				"buffer_size": 290,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 87.0,
+		"height": 227.0,
 		"selected_items":
 		[
 			[
+				"move",
+				"File: Move"
+			],
+			[
 				"rename",
 				"File: Rename"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"dupi",
+				"File: Duplicate"
 			],
 			[
 				"syntax",
@@ -143,10 +151,6 @@
 				"SublimeLint: Show All Errors"
 			],
 			[
-				"syntax sass",
-				"Set Syntax: Sass"
-			],
-			[
 				"snippet get",
 				"Snippet: getElementById"
 			],
@@ -165,10 +169,6 @@
 			[
 				"haml",
 				"Set Syntax: Ruby Haml"
-			],
-			[
-				"move",
-				"File: Move"
 			],
 			[
 				"sass",
@@ -205,10 +205,6 @@
 			[
 				"convert",
 				"HTML2Haml: Convert selection"
-			],
-			[
-				"delete",
-				"File: Delete"
 			],
 			[
 				"save",
@@ -303,7 +299,7 @@
 				"Set Syntax: Sass"
 			]
 		],
-		"width": 602.0
+		"width": 365.0
 	},
 	"console":
 	{
@@ -323,36 +319,55 @@
 	},
 	"file_history":
 	[
-		"/Users/user/Dropbox/Web/Clients/whiteboard/vendor/bundle/ruby/2.0.0/gems/tilt-1.3.7/test/markaby/markaby_other_static.mab",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/nav-secondary/_noun.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/config.rb",
+		"/Users/user/Dropbox/Web/clients/whiteboard/source/splash.html.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/animations/_document--animation.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_mixins.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/_breakpoints.scss",
+		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/ui/_splash.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/style.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/animations/_animations.sass",
+		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/base/animations.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/mixins/_mixins.scss",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/Gemfile",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/animations/_noun--animation.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/vendor/bundle/ruby/2.0.0/gems/middleman-core-3.2.0/fixtures/twitter-bootstrap-app/source/twitter-bootstrap-ebc6935/less/_component-animations.less",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_is.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/nav-secondary/_noun.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/_lab.sass",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/nav-secondary/_article.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav-fullscreen.haml",
+		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/fonts/_mvlfont.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_colors.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_gore-grid.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/layout.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/fonts/_mvlfont.css",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/index2.html.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav-secondarylevel.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav-secondary.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/app.js",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/index.html.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_lesson-nav.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/vendor/bundle/ruby/2.0.0/gems/tilt-1.3.7/test/markaby/markaby_other_static.mab",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/nav-secondary/_article.haml",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/index2.html.haml",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/ui/_lesson-nav.sass",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/layouts/footer/_lesson-nav.haml",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/index.html.haml",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/ui/_buttons.sass",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_gore-grid.sass",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/style.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/components/_grid.scss",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/handy/2013-08-08-noun.html.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/handylesson.haml",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/app.js",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/bower_components/popcornjs/parsers/parserJSON/data/video.json",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/js/handy/video.js",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/handy/2013-08-08-noun-types.html.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/handy/2013-08-08-noun-categories.html.haml",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/config.rb",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/layout.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/lab.html.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav-vertical.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/lab.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/.git/refs/heads/nav",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/layouts/layout--vertical.haml",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/layouts/_nav-draggable.haml",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/draggable.js",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/layouts/_nav-vertical.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/node_modules/bower/node_modules/glob/test/pause-resume.js",
@@ -363,7 +378,6 @@
 		"/Users/user/Dropbox/Web/Clients/whiteboard/node_modules/bower/lib/commands/list.js",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/whiteboard.sublime-project",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/Rakefile",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/Gemfile",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/handy/2013-08-08-preposition.md",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/watch",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/handy/untitled",
@@ -432,25 +446,7 @@
 		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-noun.md",
 		"/Users/user/Dropbox/Web/learnnow/source/index.html.haml",
 		"/Users/user/Dropbox/Web/learnnow/source/layouts/layout.haml",
-		"/Users/user/Dropbox/Web/learnnow/bower_components/doc-ready/index.html",
-		"/Users/user/Dropbox/Web/learnnow/source/css/ui/_nav.sass",
-		"/Users/user/Dropbox/Web/learnnow/vendor/bundle/ruby/2.0.0/bin/sass",
-		"/Users/user/Dropbox/Web/learnnow/source/js/whiteboard-mod.js",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/handy.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/css/style.sass",
-		"/Users/user/Dropbox/Web/learnnow/bower_components/eventie/test.html",
-		"/Users/user/Dropbox/Web/learnnow/node_modules/bower/node_modules/chalk/node_modules/ansi-styles/ansi-styles.js",
-		"/Users/user/Dropbox/Web/learnnow/config.rb",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-verb.md",
-		"/Users/user/Dropbox/Web/learnnow/source/images/blocks/verb.svg",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-adjective.md",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-pronoun.md",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-adverb.md",
-		"/Users/user/Dropbox/Web/learnnow/source/images/blocks/noun.svg",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/blah.md",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-07-audacitytoexist.md",
-		"/Users/user/Dropbox/Web/learnnow/source/projects/2013-09-07-test.md",
-		"/Users/user/Dropbox/Web/learnnow/source/projects/2013-08-07-test.md"
+		"/Users/user/Dropbox/Web/learnnow/bower_components/doc-ready/index.html"
 	],
 	"find":
 	{
@@ -468,6 +464,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"opacity",
+			".figure.block--article",
+			"%li",
+			"%a",
+			";",
 			"%a",
 			"- ",
 			"%a",
@@ -590,12 +591,7 @@
 			"breakpoint",
 			"sh}",
 			"d ",
-			")",
-			"h})",
-			"only screen",
-			"h})",
-			"ish",
-			"\""
+			")"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -614,175 +610,19 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								483,
-								483
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 69.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/user/Dropbox/Web/Clients/whiteboard/source/js/app.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								223,
-								223
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -797,11 +637,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -814,7 +661,7 @@
 	"project": "whiteboard.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -823,28 +670,72 @@
 		"selected_items":
 		[
 			[
-				"app",
-				"source/js/app.js"
+				"break",
+				"source/css/_breakpoints.scss"
 			],
 			[
-				"noun",
-				"source/layouts/nav-secondary/_noun.haml"
+				"mixin",
+				"source/css/base/_mixins.scss"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"mixins",
+				"source/css/base/_mixins.scss"
+			],
+			[
+				"style",
+				"source/css/style.sass"
+			],
+			[
+				"documen",
+				"source/css/animations/_document--animation.sass"
+			],
+			[
+				"",
+				"Gemfile"
+			],
+			[
+				"noun--an",
+				"source/css/animations/_noun--animation.sass"
+			],
+			[
+				"animat",
+				"source/css/animations/_document--animation.sass"
+			],
+			[
+				"animate",
+				"vendor/bundle/ruby/2.0.0/gems/middleman-core-3.2.0/fixtures/twitter-bootstrap-app/source/twitter-bootstrap-ebc6935/less/_component-animations.less"
+			],
+			[
+				"animations",
+				"source/css/animations/_document--animation.sass"
 			],
 			[
 				"nav",
 				"source/layouts/_nav.haml"
 			],
 			[
-				"_noun",
+				"mvlfont",
+				"source/css/fonts/_mvlfont.css"
+			],
+			[
+				"is.scs",
+				"source/css/ui/_is.scss"
+			],
+			[
+				"color",
+				"source/css/ui/_colors.scss"
+			],
+			[
+				"index",
+				"source/index2.html.haml"
+			],
+			[
+				"noun",
 				"source/layouts/nav-secondary/_noun.haml"
-			],
-			[
-				"secondary",
-				"source/layouts/nav-secondary/_article.haml"
-			],
-			[
-				"style",
-				"source/css/style.sass"
 			],
 			[
 				"gore",
@@ -853,6 +744,30 @@
 			[
 				"lab",
 				"source/css/_lab.sass"
+			],
+			[
+				"lesson-nav",
+				"source/css/ui/_lesson-nav.sass"
+			],
+			[
+				"app",
+				"source/js/app.js"
+			],
+			[
+				"nav.sass",
+				"source/css/ui/_nav.sass"
+			],
+			[
+				"layout",
+				"source/layouts/layout.haml"
+			],
+			[
+				"_noun",
+				"source/layouts/nav-secondary/_noun.haml"
+			],
+			[
+				"secondary",
+				"source/layouts/nav-secondary/_article.haml"
 			],
 			[
 				"grid",
@@ -883,14 +798,6 @@
 				"source/layouts/nav-secondary/_noun.haml"
 			],
 			[
-				"index",
-				"source/index.html.haml"
-			],
-			[
-				"layout",
-				"source/layouts/layout.haml"
-			],
-			[
 				"inde",
 				"source/index.html.haml"
 			],
@@ -917,10 +824,6 @@
 			[
 				"whtie",
 				"source/js/whiteboard.js"
-			],
-			[
-				"",
-				"config.rb"
 			],
 			[
 				"todo",
@@ -975,10 +878,6 @@
 				"vendor/bundle/ruby/2.0.0/gems/autoprefixer-rails-0.8.20131009/autoprefixer-rails.gemspec"
 			],
 			[
-				"config",
-				"config.rb"
-			],
-			[
 				"colors",
 				"source/css/ui/_colors.scss"
 			],
@@ -995,10 +894,6 @@
 				"vendor/bundle/ruby/2.0.0/bundler/gems/middleman-blog-322f3e303c76/features/next_previous.feature"
 			],
 			[
-				"animat",
-				"source/css/animations/_document--animation.sass"
-			],
-			[
 				"cards",
 				"source/layouts/_cards.haml"
 			],
@@ -1009,10 +904,6 @@
 			[
 				"nounsass",
 				"source/css/animations/_noun--animation.sass"
-			],
-			[
-				"mixins",
-				"source/css/base/_mixins.scss"
 			],
 			[
 				"document",
@@ -1223,10 +1114,6 @@
 				"sethjgre/source/css/ui/_type.scss"
 			],
 			[
-				"break",
-				"sethjgre/source/css/base/_breakpoints.scss"
-			],
-			[
 				"media",
 				"sethjgre/source/css/base/_utils-media.scss"
 			],
@@ -1279,10 +1166,6 @@
 				"sethjgre/source/images/img-assets.sketch/fonts"
 			],
 			[
-				"color",
-				"sethjgre/source/css/ui/_colors.scss"
-			],
-			[
 				"breakpi",
 				"sethjgre/source/css/_breakpoints.scss"
 			],
@@ -1297,42 +1180,6 @@
 			[
 				"responv",
 				"sethjgre/source/css/ui/grids-responsive.scss"
-			],
-			[
-				"s",
-				"sethjgre/source/css/style.scss"
-			],
-			[
-				"grids",
-				"sethjgre/source/css/components/_grid.scss"
-			],
-			[
-				"typ",
-				"sethjgre/source/css/ui/_type.scss"
-			],
-			[
-				"stye",
-				"sethjgre/source/css/style.scss"
-			],
-			[
-				"vars",
-				"sethjgre/source/stylesheets/_vars.scss"
-			],
-			[
-				"subl",
-				"sethjgre/sethjgre.sublime-project"
-			],
-			[
-				"main",
-				"your-project-folder/css/inuit.css/base/_main.scss"
-			],
-			[
-				"def",
-				"your-project-folder/css/inuit.css/_defaults.scss"
-			],
-			[
-				"heading",
-				"your-project-folder/css/my-base/_headings.scss"
 			]
 		],
 		"width": 0.0

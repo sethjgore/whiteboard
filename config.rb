@@ -1,4 +1,5 @@
 require 'middleman-autoprefixer'
+activate :autoprefixer
 
 activate :deploy do |deploy|
   deploy.method = :git
