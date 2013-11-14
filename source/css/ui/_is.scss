@@ -4,11 +4,11 @@
 
 .is__height--full{
   min-height: 100vh;
-  
+
   //VERY IMPORTANT - allows proper centering
   & > .g__full{
     min-height: 100vh;
-  } 
+  }
 }
 
 .is-text__yellow{
@@ -31,7 +31,7 @@
 @each $color in $colors {
   $colorname: nth($color, 1);
   $rgbvalue: nth($color, 2);
-  
+
   .is__text--#{$colorname}{
     color: unquote($rgbvalue);
   }
@@ -39,7 +39,11 @@
   .is__background--#{$colorname}{
     background: unquote($rgbvalue);
   }
+
+  .is__border--#{$colorname}{
+    border-color: unquote($rgbvalue);
+  }
 }
-  
+
 
 
