@@ -5,7 +5,7 @@
     <defs></defs>
     <g id="Pronouns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="pronoun" sketch:type="MSArtboardGroup" fill="#A85DFA">
-            <polygon d="M187.5,2 L306,298 L69,298 L187.5,2 Z M187.5,2" id="Triangle-1-copy" sketch:type="MSShapeGroup" points="187.5 2 306 298 69 298 "></polygon>
+            <polygon id="Triangle-1-copy" sketch:type="MSShapeGroup" points="187.5 2 306 298 69 298 "></polygon>
         </g>
     </g>
 </svg>

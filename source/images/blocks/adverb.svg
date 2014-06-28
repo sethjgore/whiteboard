@@ -5,7 +5,8 @@
     <defs></defs>
     <g id="Adverbs-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="adverb" sketch:type="MSArtboardGroup" fill="#FF7E29">
-            <path d="M113.500074,224 C113.500074,264.869164 146.63091,298 187.499926,298 C228.369238,298 261.499926,264.869164 261.499926,224 C261.499926,183.130984 228.369238,150 187.499926,150 C146.63091,150 113.500074,183.130984 113.500074,224 Z M113.500074,224" id="Verb---Blank-copy" sketch:type="MSShapeGroup"></path>
+            <path d="M113.500074,224 C113.500074,264.869164 146.63091,298 187.499926,298 C228.369238,298 261.499926,264.869164 261.499926,224 C261.499926,183.130984 228.369238,150 187.499926,150 C146.63091,150 113.500074,183.130984 113.500074,224 Z" id="Verb---Blank-copy" sketch:type="MSShapeGroup"></path>
         </g>
+        <g id="Adverb" sketch:type="MSArtboardGroup" transform="translate(-338.000000, -317.000000)"></g>
     </g>
 </svg>

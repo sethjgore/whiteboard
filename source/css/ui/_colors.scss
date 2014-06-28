@@ -12,4 +12,22 @@ $colors: (
     "dark" "rgba(0,0,0,.50)",
     "darker" "rgb(44, 44, 44)",
     "color--yellow" "rgb(254, 173, 9)"
-)
+);
+
+
+@each $color in $colors {
+  $colorname: nth($color, 1);
+  $rgbvalue: nth($color, 2);
+
+  .is__text--#{$colorname}{
+    color: unquote($rgbvalue);
+  }
+
+  .is__background--#{$colorname}{
+    background: unquote($rgbvalue);
+  }
+
+  .is__border--#{$colorname}{
+    border-color: unquote($rgbvalue);
+  }
+}

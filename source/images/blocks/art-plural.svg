@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="375px" height="300px" viewBox="0 0 375 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>art-plural</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Articles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="art-plural" sketch:type="MSArtboardGroup">
+            <g id="Triangle-1-copy-2-+-Triangle-1" sketch:type="MSLayerGroup" transform="translate(69.000000, 101.000000)">
+                <polygon id="Triangle-1-copy-2" fill="#8FCFF5" sketch:type="MSShapeGroup" points="118.5 0 237 199 0 199 "></polygon>
+                <path d="M95.5,177 C101.851275,177 107,171.851275 107,165.5 C107,159.148725 101.851275,154 95.5,154 C89.1487251,154 84,159.148725 84,165.5 C84,171.851275 89.1487251,177 95.5,177 Z M142.5,177 C148.851275,177 154,171.851275 154,165.5 C154,159.148725 148.851275,154 142.5,154 C136.148725,154 131,159.148725 131,165.5 C131,171.851275 136.148725,177 142.5,177 Z" id="Triangle-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

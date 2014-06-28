@@ -5,7 +5,7 @@
     <defs></defs>
     <g id="Articles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="article" sketch:type="MSArtboardGroup" fill="#8FCFF5">
-            <polygon d="M187.5,101 L306,300 L69,300 L187.5,101 Z M187.5,101" id="Triangle-1-copy-2" sketch:type="MSShapeGroup" points="187.5 101 306 300 69 300 "></polygon>
+            <polygon id="Triangle-1-copy-2" sketch:type="MSShapeGroup" points="187.5 101 306 300 69 300 "></polygon>
         </g>
     </g>
 </svg>

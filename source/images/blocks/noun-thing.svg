@@ -3,9 +3,9 @@
     <title>noun-thing</title>
     <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
     <defs></defs>
-    <g id="Nouns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+    <g id="Adjectives-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="noun-thing" sketch:type="MSArtboardGroup" fill="#393939">
-            <path d="M188,0 L364,296 L12,296 L188,0 Z M178.324,156.888 L147.076,156.888 L147.076,141.048 L227.716,141.048 L227.716,156.888 L196.468,156.888 L196.468,243 L178.324,243 L178.324,156.888 Z M178.324,156.888" id="Triangle-1" sketch:type="MSShapeGroup"></path>
+            <path d="M188,0 L364,296 L12,296 L188,0 Z M178.324,156.888 L147.076,156.888 L147.076,141.048 L227.716,141.048 L227.716,156.888 L196.468,156.888 L196.468,243 L178.324,243 L178.324,156.888 Z" id="Triangle-1" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

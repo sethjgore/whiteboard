@@ -3,9 +3,11 @@
     <title>noun</title>
     <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
     <defs></defs>
-    <g id="Nouns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+    <g id="Adjectives-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="noun" sketch:type="MSArtboardGroup" fill="#393939">
-            <polygon d="M188,2 L364,298 L12,298 L188,2 Z M188,2" id="Triangle-1" sketch:type="MSShapeGroup" points="188 2 364 298 12 298 "></polygon>
+            <polygon id="Triangle-1" sketch:type="MSShapeGroup" points="188 2 364 298 12 298 "></polygon>
+            <polygon id="Triangle-1" sketch:type="MSShapeGroup" points="188 2 364 298 12 298 "></polygon>
+            <polygon id="Triangle-1" sketch:type="MSShapeGroup" points="188 2 364 298 12 298 "></polygon>
         </g>
     </g>
 </svg>

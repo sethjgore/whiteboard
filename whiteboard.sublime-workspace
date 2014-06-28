@@ -87,16 +87,28 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_splash.sass",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 227.0,
+		"height": 287.0,
 		"selected_items":
 		[
 			[
 				"move",
 				"File: Move"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
 			],
 			[
 				"rename",
@@ -109,10 +121,6 @@
 			[
 				"del",
 				"File: Delete"
-			],
-			[
-				"syntax sass",
-				"Set Syntax: Sass"
 			],
 			[
 				"dupi",
@@ -299,7 +307,7 @@
 				"Set Syntax: Sass"
 			]
 		],
-		"width": 365.0
+		"width": 602.0
 	},
 	"console":
 	{
@@ -319,34 +327,57 @@
 	},
 	"file_history":
 	[
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/mixins/_animate-this.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/layout.haml",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/Gemfile",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/config.rb",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_is.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/app.js",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/vendor/bundle/ruby/2.0.0/bin/sprockets",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/style.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_type.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_type.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_colors.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_site-wide.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_fonts.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_formatting.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/_breakpoints.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_blocks.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/plugins/_breakpoint-trafficlight.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_mediarequests.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/animations/_animations.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_grid.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_3d.sass",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/mixins/_mixins.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_splash.sass",
+		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/mixins/_is-delayed.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/utils/_media.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/_variables.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/components/_container.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/utils/_size.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/utils/_spacing.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/utils/_color.scss",
+		"/Users/user/Dropbox/Web/Clients/whiteboard/source/splash.html.haml",
+		"/Users/user/Dropbox/Web/clients/infini/infini.sublime-project",
+		"/Users/user/Dropbox/Web/personal/to-done/javascripts/this.js",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/splash.html.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/animations/_document--animation.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_mixins.scss",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/_breakpoints.scss",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/ui/_splash.sass",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/style.sass",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/animations/_animations.sass",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/base/animations.sass",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/mixins/_mixins.scss",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav.haml",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/Gemfile",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/animations/_noun--animation.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/vendor/bundle/ruby/2.0.0/gems/middleman-core-3.2.0/fixtures/twitter-bootstrap-app/source/twitter-bootstrap-ebc6935/less/_component-animations.less",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_is.scss",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/nav-secondary/_noun.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/_lab.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav-fullscreen.haml",
 		"/Users/user/Dropbox/Web/clients/whiteboard/source/css/fonts/_mvlfont.scss",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_colors.scss",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/base/_gore-grid.sass",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/layout.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/fonts/_mvlfont.css",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/index2.html.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_nav-secondarylevel.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/layouts/_nav-secondary.haml",
-		"/Users/user/Dropbox/Web/Clients/whiteboard/source/js/app.js",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/index.html.haml",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_lesson-nav.sass",
 		"/Users/user/Dropbox/Web/Clients/whiteboard/vendor/bundle/ruby/2.0.0/gems/tilt-1.3.7/test/markaby/markaby_other_static.mab",
@@ -423,30 +454,7 @@
 		"/Users/user/Dropbox/Web/clients/learnnow/source/css/ui/_blocks.sass",
 		"/Users/user/Dropbox/Web/clients/learnnow/source/layouts/_nav.haml",
 		"/Users/user/Dropbox/Web/clients/learnnow/source/layouts/nav-secondary/_article.haml",
-		"/Users/user/Dropbox/Web/clients/learnnow/source/css/ui/_nav.sass",
-		"/Users/user/Dropbox/Web/clients/learnnow/source/js/nav.js",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-preposition.md",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-article.md",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/nav-secondary/_adverb.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/css/ui/_section-lesson.sass",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/handylesson.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/js/nav.js",
-		"/Users/user/Dropbox/Web/learnnow/source/css/ui/_nav-secondarylevel.sass",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/_nav.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/nav-secondary/_preposition.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/js/whiteboard.js",
-		"/Users/user/Dropbox/Web/learnnow/source/js/app.js",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/nav-secondary/_verb.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/nav-secondary/_pronoun.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/nav-secondary/_noun.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/css/ui/_blocks.sass",
-		"/Users/user/Dropbox/Web/learnnow/source/css/ui/_sentence.sass",
-		"/Users/user/Dropbox/Web/learnnow/source/images/blocks/article.svg",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/_nav-secondary.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/handy/2013-08-08-noun.md",
-		"/Users/user/Dropbox/Web/learnnow/source/index.html.haml",
-		"/Users/user/Dropbox/Web/learnnow/source/layouts/layout.haml",
-		"/Users/user/Dropbox/Web/learnnow/bower_components/doc-ready/index.html"
+		"/Users/user/Dropbox/Web/clients/learnnow/source/css/ui/_nav.sass"
 	],
 	"find":
 	{
@@ -464,6 +472,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$",
+			".figure",
 			"opacity",
 			".figure.block--article",
 			"%li",
@@ -589,9 +599,7 @@
 			".3",
 			"em",
 			"breakpoint",
-			"sh}",
-			"d ",
-			")"
+			"sh}"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -610,8 +618,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/user/Dropbox/Web/Clients/whiteboard/source/css/ui/_splash.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -658,6 +697,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"project": "whiteboard.sublime-project",
 	"replace":
 	{
@@ -670,24 +713,104 @@
 		"selected_items":
 		[
 			[
-				"break",
-				"source/css/_breakpoints.scss"
+				"splash",
+				"source/css/ui/_splash.sass"
 			],
 			[
-				"mixin",
-				"source/css/base/_mixins.scss"
+				"animate",
+				"source/css/mixins/_animate-this.scss"
+			],
+			[
+				"nav",
+				"source/layouts/_nav.haml"
+			],
+			[
+				"conf",
+				"config.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"layout",
+				"source/layouts/layout.haml"
+			],
+			[
+				"_is",
+				"source/css/ui/_is.scss"
+			],
+			[
+				"app",
+				"source/js/app.js"
+			],
+			[
+				"sprock",
+				"vendor/bundle/ruby/2.0.0/bin/sprockets"
 			],
 			[
 				"config",
 				"config.rb"
 			],
 			[
-				"mixins",
-				"source/css/base/_mixins.scss"
+				"type",
+				"source/css/base/_type.scss"
+			],
+			[
+				"ui/type",
+				"source/css/ui/_type.scss"
+			],
+			[
+				"color",
+				"source/css/ui/_colors.scss"
+			],
+			[
+				"sitewi",
+				"source/css/ui/_site-wide.scss"
+			],
+			[
+				"formatt",
+				"source/css/ui/_formatting.sass"
+			],
+			[
+				"ui/is",
+				"source/css/ui/_is.scss"
+			],
+			[
+				"breakp",
+				"source/css/_breakpoints.scss"
+			],
+			[
+				"fonts",
+				"source/css/base/_fonts.sass"
+			],
+			[
+				"locks",
+				"source/css/ui/_blocks.sass"
+			],
+			[
+				"traff",
+				"source/css/plugins/_breakpoint-trafficlight.scss"
+			],
+			[
+				"break",
+				"source/css/_breakpoints.scss"
 			],
 			[
 				"style",
 				"source/css/style.sass"
+			],
+			[
+				"splas",
+				"source/splash.html.haml"
+			],
+			[
+				"mixin",
+				"source/css/base/_mixins.scss"
+			],
+			[
+				"mixins",
+				"source/css/base/_mixins.scss"
 			],
 			[
 				"documen",
@@ -706,16 +829,8 @@
 				"source/css/animations/_document--animation.sass"
 			],
 			[
-				"animate",
-				"vendor/bundle/ruby/2.0.0/gems/middleman-core-3.2.0/fixtures/twitter-bootstrap-app/source/twitter-bootstrap-ebc6935/less/_component-animations.less"
-			],
-			[
 				"animations",
 				"source/css/animations/_document--animation.sass"
-			],
-			[
-				"nav",
-				"source/layouts/_nav.haml"
 			],
 			[
 				"mvlfont",
@@ -724,10 +839,6 @@
 			[
 				"is.scs",
 				"source/css/ui/_is.scss"
-			],
-			[
-				"color",
-				"source/css/ui/_colors.scss"
 			],
 			[
 				"index",
@@ -750,16 +861,8 @@
 				"source/css/ui/_lesson-nav.sass"
 			],
 			[
-				"app",
-				"source/js/app.js"
-			],
-			[
 				"nav.sass",
 				"source/css/ui/_nav.sass"
-			],
-			[
-				"layout",
-				"source/layouts/layout.haml"
 			],
 			[
 				"_noun",
@@ -800,10 +903,6 @@
 			[
 				"inde",
 				"source/index.html.haml"
-			],
-			[
-				"conf",
-				"config.rb"
 			],
 			[
 				"lay",
@@ -852,10 +951,6 @@
 			[
 				"con",
 				"config.rb"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"vendor/bundle/middleman-blog",
@@ -1074,10 +1169,6 @@
 				"source/css/ui/_sentence.sass"
 			],
 			[
-				"_is",
-				"source/css/ui/_is.scss"
-			],
-			[
 				"is",
 				"node_modules/bower/node_modules/mout/date/isSame.js"
 			],
@@ -1110,16 +1201,8 @@
 				"sethjgre/source/css/ui/_intro.sass"
 			],
 			[
-				"type",
-				"sethjgre/source/css/ui/_type.scss"
-			],
-			[
 				"media",
 				"sethjgre/source/css/base/_utils-media.scss"
-			],
-			[
-				"traff",
-				"sethjgre/source/css/base/_breakpoint-trafficlight.scss"
 			],
 			[
 				"grd",
@@ -1140,46 +1223,6 @@
 			[
 				"res",
 				"sethjgre/source/css/ui/responsive-grid.scss"
-			],
-			[
-				"responsive",
-				"sethjgre/source/css/ui/responsive-grid.scss"
-			],
-			[
-				"site",
-				"sethjgre/source/css/ui/_site-wide.scss"
-			],
-			[
-				"traf",
-				"sethjgre/source/css/base/_breakpoint-trafficlight.scss"
-			],
-			[
-				"layo",
-				"sethjgre/source/layouts/layout.haml"
-			],
-			[
-				"styl",
-				"sethjgre/source/css/style.scss"
-			],
-			[
-				"sketch",
-				"sethjgre/source/images/img-assets.sketch/fonts"
-			],
-			[
-				"breakpi",
-				"sethjgre/source/css/_breakpoints.scss"
-			],
-			[
-				"gore-",
-				"sethjgre/source/css/base/_gore-grid.sass"
-			],
-			[
-				"base",
-				"sethjgre/source/css/_base.scss"
-			],
-			[
-				"responv",
-				"sethjgre/source/css/ui/grids-responsive.scss"
 			]
 		],
 		"width": 0.0
@@ -1190,12 +1233,20 @@
 		"selected_items":
 		[
 			[
-				"dot",
-				"~/dotfiles.sublime-project"
+				"",
+				"~/Dropbox/Web/personal/joy/joy.sublime-project"
 			],
 			[
-				"",
-				"~/Dropbox/Web/personal/sethjgre/sethjgre.sublime-project"
+				"yo",
+				"~/Dropbox/Web/personal/joy/joy.sublime-project"
+			],
+			[
+				"jo",
+				"~/Dropbox/Web/personal/joy/joy.sublime-project"
+			],
+			[
+				"dot",
+				"~/dotfiles.sublime-project"
 			],
 			[
 				"seth",
@@ -1246,8 +1297,8 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 425.0,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

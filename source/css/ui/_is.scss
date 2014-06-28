@@ -11,39 +11,6 @@
   }
 }
 
-.is-text__yellow{
-  font-weight: normal;
-  color: #FEAD09;
-  }
-
-.is-element--centering{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.is-element--centered{
-    max-width: 90vw;
-    margin: 20vh 0
-}
-
-
-@each $color in $colors {
-  $colorname: nth($color, 1);
-  $rgbvalue: nth($color, 2);
-
-  .is__text--#{$colorname}{
-    color: unquote($rgbvalue);
-  }
-
-  .is__background--#{$colorname}{
-    background: unquote($rgbvalue);
-  }
-
-  .is__border--#{$colorname}{
-    border-color: unquote($rgbvalue);
-  }
-}
 
 
 

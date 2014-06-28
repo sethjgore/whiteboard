@@ -1,70 +1,47 @@
-// A special imported is needed for plain CSS files at the moment
-// https://github.com/chriseppstein/sass-css-importer
-@import "CSS:normalize"
+@import "plugins/normalize"
 
-@import "variables"
+
 @import "base/breakpoints"
-//@import "breakpoints"
-@import "base"
+@import "base/mediarequests"
+@import "base/grid"
+@import "base/fonts"
 
-@import "utils/size"
-@import "utils/spacing"
-@import "utils/color"
-
-// USE MY OWN MEDIA STUFF
-@import "base/utils-media"
-//@import "utils/media"
-
-@import "components/button"
 @import "components/media"
-@import "components/list"
 @import "components/grid"
-@import "components/input-add-on"
-@import "components/holy-grail"
-@import "components/demo"
-@import "components/site"
-@import "components/container"
-@import "components/header"
-@import "components/footer"
-@import "components/section"
-@import "components/image"
 @import "components/aligner"
-@import "components/feature"
-@import "components/browser-logo"
-@import "components/browser-matrix"
-@import "components/error"
-
-@import "components/headings/promo-heading"
-@import "components/headings/promo-subheading"
-
-@import "vendor/highlight"
-@import "vendor/twitter"
-@import "vendor/font-awesome-extensions"
 
 @import "mixins/mixins"
-@import "base/mixins"
-@import "base/gore-grid"
-@import "base/fonts"
-@import "base/breakpoint-trafficlight"
-@import "base/3d"
-@import "fonts/mvlfont"
-@Import "animations/animations"
-
-@import "ui/site-wide"
-@import "ui/formatting"
-@import "ui/colors"
-
-@import "ui/is"
-@import "ui/type"
-
-@import "ui/sentence"
-@import "ui/nav"
-@import "ui/nav-secondarylevel"
-@import "ui/blocks"
-@import "ui/section-lesson"
-@import "ui/buttons"
+@import "mixins/animate-this"
+@import "mixins/is-delayed"
 
 @import "animations/noun--animation"
-@import "lab"
+
+// atoms
+@import "ui/colors"
+@import "ui/type"
+@import "ui/site-wide"
+@import "ui/is"
+
+@import "ui/formatting"
+
+@import "ui/buttons"
+
+//mvl related atoms
+@import "ui/blocks"
+@import "plugins/mvlfont"
+
+// molecules
+@import "ui/sentence"
+@import "ui/section-lesson"
+
+// organisms
+@import "ui/nav"
+@import "ui/nav-secondarylevel"
 @import "ui/lesson-nav"
 @import "ui/splash"
+
+//PLUGINS
+@import "plugins/breakpoint-trafficlight"
+
+//EXPERIMENTAL
+@import "lab"

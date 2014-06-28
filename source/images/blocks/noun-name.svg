@@ -3,9 +3,9 @@
     <title>noun-name</title>
     <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
     <defs></defs>
-    <g id="Nouns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+    <g id="Adjectives-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="noun-name" sketch:type="MSArtboardGroup" fill="#393939">
-            <path d="M188,0 L364,296 L12,296 L188,0 Z M142.232,141.048 L166.28,141.048 L213.656,217.368 L213.944,217.368 L213.944,141.048 L232.088,141.048 L232.088,243 L209.048,243 L160.664,164.232 L160.376,164.232 L160.376,243 L142.232,243 L142.232,141.048 Z M142.232,141.048" id="Triangle-1" sketch:type="MSShapeGroup"></path>
+            <path d="M188,0 L364,296 L12,296 L188,0 Z M142.232,141.048 L166.28,141.048 L213.656,217.368 L213.944,217.368 L213.944,141.048 L232.088,141.048 L232.088,243 L209.048,243 L160.664,164.232 L160.376,164.232 L160.376,243 L142.232,243 L142.232,141.048 Z" id="Triangle-1" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>
